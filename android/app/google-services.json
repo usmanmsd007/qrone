@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109012848639",
+    "project_id": "zaiqa-cb4fa",
+    "storage_bucket": "zaiqa-cb4fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109012848639:android:31cc4cf1844ecf9a5c61ca",
+        "android_client_info": {
+          "package_name": "com.example.qrone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Cw5slucIduPqSTvNVR9jZz3iDJvti-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
